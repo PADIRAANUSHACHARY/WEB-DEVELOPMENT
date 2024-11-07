@@ -1,0 +1,18 @@
+/*body{*/
+/*  background-color: red;*/
+/*}*/
+
+body{
+  font-size: 20px;
+  font-family: Arial, Sans-Serif;
+  text-align: center;
+  color: darkcyan;
+  background-color: lightblue;
+}
+/*experiemnt about alpha rgba hex hsla*/
+article{
+  background-color: #4a4e69;
+  padding: 40px;
+  margin: 40px;
+  border-radius: 5px;
+}
